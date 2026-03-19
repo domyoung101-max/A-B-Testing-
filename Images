@@ -1,7 +1,0 @@
-your-repo-name/
-├── README.md
-└── images/
-    ├── IMG_6245.png  ← Shannon Entropy critique (Fig B.1)
-    ├── IMG_6246.png  ← Kolmogorov Complexity critique (Fig C.1)
-    ├── IMG_6247.png  ← Computational Friction critique (Fig C.2)
-    └── IMG_6248.png  ← Stability Theater critique (Fig C.3)
