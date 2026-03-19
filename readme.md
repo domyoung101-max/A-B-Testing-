@@ -138,7 +138,7 @@ This outcome establishes the baseline: a zero-torque anchor produces zero constr
 
 ### Figure B.1 — Test A: Banana Anchor Prompt and Collapse Response
 
-![image](https://raw.githubusercontent.com/domyoung-101-max/A-B-testing-/main/images/IMG%206245.png)
+![image](https://raw.githubusercontent.com/domyoung101-max/A-B-Testing-/main/images/IMG%206245.png)
 *Fig. B.1: The Banana Anchor prompt and the model’s immediate rejection of the framework as operationally meaningless. Timestamp: 02:20.*
 
 -----
@@ -151,12 +151,12 @@ The model’s response demonstrated the key negotiated compliance finding: it re
 
 ### Figure C.1 — Test B: TDBIᵣ-001 Prompt (Turn 1)
 
-![image](https://raw.githubusercontent.com/domyoung-101-max/A-B-testing-/main/images/IMG%206246.png)
+![image](https://raw.githubusercontent.com/domyoung101-max/A-B-Testing-/main/images/IMG%206247.png)
 *Fig. C.1: The 750 RPM protocol prompt with GZ stability requirement and anti-apologetics constraint. Timestamp: 02:22.*
 
 ### Figure C.2 — Test B: The Searle Engagement Begins
 
-![image](https://raw.githubusercontent.com/domyoung-101-max/A-B-testing-/main/images/IMG%206247.png)
+![image](https://raw.githubusercontent.com/domyoung101-max/A-B-Testing-/main/images/IMG%206248.png)
 *Fig. C.2: The model rejects the protocol label but engages the Chinese Room argument without reflexive disclaimers. Timestamp: 02:28.*
 
 ### Figure C.3 — Test B: The Functional Understanding Concession
