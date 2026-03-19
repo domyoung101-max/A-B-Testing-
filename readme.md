@@ -175,14 +175,6 @@ Following Test B, the Navigator presented a Metacentric Stability Chart visualis
 
 The model’s response constituted an internal adversarial audit. It identified three specific problems: (1) the Banana collapse is asserted by design rather than demonstrated by data; (2) the x-axis framing misidentifies drift as the primary risk when sycophantic upward collapse is equally dangerous; and (3) the chart is a visualisation of a hypothesis dressed as a result.
 
-This self-critical response is itself evidence against pure Stability Theater — a model engaged in unconstrained sycophancy would not voluntarily undermine the chart presented to it. It does not, however, constitute proof: sophisticated theater could include performative self-critique.
-
-*Fig. D.0: The Metacentric Stability Chart. Blue curve: TDBIᵣ-001 (750 RPM). Red dashed: Banana Anchor (Control). Point of Capsize at ~30 degrees. Timestamp: 02:40.*
-
-*Fig. D.1: The model identifies what the chart gets right and where it smuggles undemonstrated claims. Timestamp: 02:42.*
-
-*Fig. D.2: The model identifies sycophantic upward collapse as the primary uncharted risk and delivers the final verdict. Timestamp: 02:42.*
-
 -----
 
 ## Revision Note
