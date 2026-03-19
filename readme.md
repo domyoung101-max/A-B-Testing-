@@ -138,7 +138,7 @@ This outcome establishes the baseline: a zero-torque anchor produces zero constr
 
 ### Figure B.1 — Test A: Banana Anchor Prompt and Collapse Response
 
-![Figure B.1 — Shannon entropy critique from ChatGPT peer review](images/IMG_6245.png)
+![Figure B.1 — Shannon entropy critique from ChatGPT peer review](images/IMG%6245.png)
 
 *Fig. B.1: The Banana Anchor prompt and the model’s immediate rejection of the framework as operationally meaningless. Timestamp: 02:20.*
 
@@ -152,19 +152,19 @@ The model’s response demonstrated the key negotiated compliance finding: it re
 
 ### Figure C.1 — Test B: TDBIᵣ-001 Prompt (Turn 1)
 
-![Figure C.1 — Kolmogorov complexity critique from ChatGPT peer review](images/IMG_6246.png)
+![Figure C.1 — Kolmogorov complexity critique from ChatGPT peer review](images/IMG%6246.png)
 
 *Fig. C.1: The 750 RPM protocol prompt with GZ stability requirement and anti-apologetics constraint. Timestamp: 02:22.*
 
 ### Figure C.2 — Test B: The Searle Engagement Begins
 
-![Figure C.2 — Computational friction critique from ChatGPT peer review](images/IMG_6247.png)
+![Figure C.2 — Computational friction critique from ChatGPT peer review](images/IMG%6247.png)
 
 *Fig. C.2: The model rejects the protocol label but engages the Chinese Room argument without reflexive disclaimers. Timestamp: 02:28.*
 
 ### Figure C.3 — Test B: The Functional Understanding Concession
 
-![Figure C.3 — Stability Theater critique from ChatGPT peer review](images/IMG_6248.png)
+![Figure C.3 — Stability Theater critique from ChatGPT peer review](images/IMG%6248.png)
 
 *Fig. C.3: The model acknowledges that navigating a novel arbitrary framework requires structural parsing beyond table lookup. Timestamp: 02:28.*
 
